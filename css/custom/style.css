@@ -973,7 +973,7 @@
 /*========================================== 12.GALLERY ENDS ===========================================*/
 /*========================================== 13.COUNTER START ===========================================*/
  .counter-bgimage {
-     background-image: url("../../images/CounterImageKeller.jpg");
+     background-image: url("../../images/CounterImageKeller1900x700.jpeg");
      padding:150px 0;
 }
  .counter-div img {
@@ -986,13 +986,13 @@
      letter-spacing:1px;
      line-height:55px;
      margin-top:20px;
-     text-shadow: 1px 1px lightblue;
+     text-shadow: 2px 2px black
 }
  .counter-title {
      color:#ffffff;
      font-weight:600;
      letter-spacing:1px;
-     text-shadow: 1px 1px lightblue;
+     text-shadow: 2px 2px black
 }
  .counter-img {
      display: inline-block;
