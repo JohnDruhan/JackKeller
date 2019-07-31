@@ -361,16 +361,16 @@
 /*========================================== 5.READ MORE LINK END ===========================================*/
 /*========================================== 6.HEADER START ===========================================*/
  .header-bgimage {
-     background-image: url("../../images/1920x800x1.jpg");
+     background-image: url("../../images/KellerSlider1.jpeg");
 }
  .header-bgimage-slider-1 {
-     background-image: url("../../images/slider-1.png");
+     background-image: url("../../images/KellerSlider1.jpeg");
 }
  .header-bgimage-slider-2 {
-     background-image: url("../../images/slider-2.png");
+     background-image: url("../../images/KellerSlider2.jpeg");
 }
  .header-bgimage-slider-3 {
-     background-image: url("../../images/slider-3.png");
+     background-image: url("../../images/KellerSlider3.jpeg");
 }
  .heading-padding {
      padding-bottom:230px;
@@ -386,6 +386,7 @@
      font-weight:700;
      letter-spacing:1px;
      line-height:65px;
+     text-shadow: 2px 2px #FF0000
 }
  .header-bgimage-slider-1 .header-div p{
      color:#ffffff;
@@ -399,15 +400,16 @@
 }
  .header-bgimage-slider-2 .header-div h1 {
      color: #ffffff;
-     /* text-shadow: 2px 2px #FF0000 */
      font-size:55px;
      font-weight:700;
      letter-spacing:1px;
      line-height:65px;
+     text-shadow: 2px 2px #FF0000
 }
  .header-bgimage-slider-2 .header-div p{
      color:#ffffff;
      font-weight:600;
+     margin-left: auto;
      width:80%;
      text-shadow: 2px 2px #FF0000
 }
@@ -416,14 +418,16 @@
      width:80%;
 }
  .header-bgimage-slider-3 .header-div h1 {
-     color: lightblue;
+     color: #ffffff;
+     
      font-size:55px;
      font-weight:700;
      letter-spacing:1px;
      line-height:65px;
+     text-shadow: 2px 2px #FF0000
 }
  .header-bgimage-slider-3 .header-div p{
-     color: lightblue;
+     color: #ffffff;
      font-weight:600;
      margin-left: auto;
      width:80%;
